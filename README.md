@@ -11,7 +11,7 @@ Functionality benchmarks
 1. Plot the missing <i>E</i><sub>T</sub> of events that have at least two jets with <i>p</i><sub>T</sub> > 40 GeV
 1. Plot the missing <i>E</i><sub>T</sub> of events that have an opposite-sign muon pair with an invariant mass between 60 and 120 GeV
 1. Plot <i>p</i><sub>T</sub> of the tri-jet system with mass closest to 172.5 GeV, and plot the maximum <i>b</i>-tagging discriminant value among the jets in the triplet
-1. Plot the sum of <i>p</i><sub>T</sub> of jets with <i>p</i><sub>T</sub> > 30 GeV that are not within ΔR 0.4 of a lepton with <i>p</i><sub>T</sub> > 10 GeV
+1. Plot the sum of <i>p</i><sub>T</sub> of jets with <i>p</i><sub>T</sub> > 30 GeV that are not within 0.4 in Δ<i>R</i> of any lepton with <i>p</i><sub>T</sub> > 10 GeV
 1. For events with at least three leptons and a same-flavor opposite-sign lepton pair, find the same-flavour opposite-sign lepton pair with mass closest to 91.2 GeV and plot the transverse mass of the missing energy and the leading other lepton
 
 Input data files
