@@ -17,7 +17,8 @@ Functionality benchmarks
 Input data files
 ================
 
-* Converted from 2012 CMS open data (17 GB, 54 million events): root://eospublic.cern.ch//eos/root-eos/benchmark/Run2012B_SingleMu.root
+* Converted from 2012 CMS open data (17 GB, 54 million events):
+  * root://eospublic.cern.ch//eos/root-eos/benchmark/Run2012B_SingleMu.root
 
 Language implementations
 ========================
