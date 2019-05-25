@@ -7,7 +7,7 @@ Functionality benchmarks
 
 1. Plot the missing <i>E</i><sub>T</sub> of all events
 1. Plot <i>p</i><sub>T</sub> of all jets in all events
-1. Plot <i>p</i><sub>T</sub> of jets with <i>p</i><sub>T</sub> > 20 GeV and |<i>η</i>| < 1
+1. Plot <i>p</i><sub>T</sub> of jets with |<i>η</i>| < 1
 1. Plot the missing <i>E</i><sub>T</sub> of events that have at least two jets with <i>p</i><sub>T</sub> > 40 GeV
 1. Plot the missing <i>E</i><sub>T</sub> of events that have an opposite-sign muon pair with an invariant mass between 60 and 120 GeV
 1. Plot <i>p</i><sub>T</sub> of the tri-jet system with mass closest to 172.5 GeV, and plot the maximum <i>b</i>-tagging discriminant value among the jets in the triplet
