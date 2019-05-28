@@ -23,9 +23,10 @@ Input data files
 Language implementations
 ========================
 
-* [LINQtoROOT, TTreeReader, RDataFrame, and uproot](https://github.com/gordonwatts/analysis-plot-comparison)
-* [RDataFrame](https://github.com/stwunsch/opendata-benchmarks)
-* [NAIL (Natual Analysis Implementation Language)](https://github.com/arizzi/nail/tree/master/benchmarks)
+|Repository|Language|Description|
+|----------|--------|-----------|
+|[opendata-benchmarks](https://github.com/stwunsch/opendata-benchmarks)|RDataFrame||
+|[nail](https://github.com/arizzi/nail/tree/master/benchmarks)|NAIL (Natual Analysis Implementation Language)||
 
 Adding new benchmarks, data, or implementations
 ===============================================
