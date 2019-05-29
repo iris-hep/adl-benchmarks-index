@@ -33,6 +33,6 @@ Language implementations
 Adding new benchmarks, data, or implementations
 ===============================================
 
-* Additional benchmarks or public data files can be suggested as GitHub issues on this project to start a discussion.
+* Additional benchmarks or public data files can be suggested as GitHub issues on this project to start a discussion within the [HSF Data Analysis Working Group](https://hepsoftwarefoundation.org/workinggroups/dataanalysis.html) community.
 * Suggested modifications to the layout of this repository are also welcome as new GitHub issues.
 * If you would like to add a repository with a new implementation of the benchmarks, go ahead and submit a pull request with the proposed changes.
