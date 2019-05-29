@@ -14,6 +14,8 @@ Functionality benchmarks
 1. Plot the sum of <i>p</i><sub>T</sub> of jets with <i>p</i><sub>T</sub> > 30 GeV that are not within 0.4 in Δ<i>R</i> of any lepton with <i>p</i><sub>T</sub> > 10 GeV.
 1. For events with at least three leptons and a same-flavor opposite-sign lepton pair, find the same-flavor opposite-sign lepton pair with the mass closest to 91.2 GeV and plot the transverse mass of the missing energy and the leading other lepton.
 
+For more details and the motivations behind these benchmarks, see [here](benchmark-motivations.md).
+
 Input data files
 ================
 
