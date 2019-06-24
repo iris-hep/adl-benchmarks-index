@@ -29,7 +29,7 @@ Language implementations
 |----------|--------|-----------|
 |[opendata-benchmarks](https://github.com/stwunsch/opendata-benchmarks)|RDataFrame||
 |[nail](https://github.com/arizzi/nail/tree/master/benchmarks)|NAIL (Natual Analysis Implementation Language)||
-|[groot](https://github.com/go-hep/examples/tree/master/groot/bench-opendata)|[Go](https://golang.org)|`groot` from [Go-HEP](https://go-hep.org)|
+|[groot](https://github.com/go-hep/examples/tree/master/groot/bench-opendata)|[Go](https://golang.org)|Part of the [Go-HEP](https://go-hep.org/) project, `groot` is a pure Go package that provides read access to ROOT files|
 
 Adding new benchmarks, data, or implementations
 ===============================================
