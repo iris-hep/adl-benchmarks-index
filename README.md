@@ -30,6 +30,7 @@ Language implementations
 |[opendata-benchmarks](https://github.com/stwunsch/opendata-benchmarks)|RDataFrame||
 |[nail](https://github.com/arizzi/nail/tree/master/benchmarks)|NAIL (Natual Analysis Implementation Language)||
 |[groot](https://github.com/go-hep/examples/tree/master/groot/bench-opendata)|[Go](https://golang.org)|Part of the [Go-HEP](https://go-hep.org/) project, `groot` is a pure Go package that provides read/write access to ROOT files|
+|[coffea](https://github.com/mat-adamec/coffea-benchmarks)|Python + Numpy|[Coffea](https://github.com/CoffeaTeam/coffea) builds on numpy for columnar data analysis in Python|
 
 Adding new benchmarks, data, or implementations
 ===============================================
