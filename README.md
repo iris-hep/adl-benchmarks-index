@@ -31,7 +31,7 @@ Language implementations
 |[nail](https://github.com/arizzi/nail/tree/master/benchmarks)|NAIL (Natual Analysis Implementation Language)||
 |[groot](https://github.com/go-hep/examples/tree/master/groot/bench-opendata)|[Go](https://golang.org)|Part of the [Go-HEP](https://go-hep.org/) project, `groot` is a pure Go package that provides read/write access to ROOT files|
 |[coffea](https://github.com/mat-adamec/coffea-benchmarks)|Python + Numpy|[Coffea](https://github.com/CoffeaTeam/coffea) builds on numpy and awkward-array for columnar data analysis in Python|
-|[bamboo](https://github.com/pieterdavid/bamboo-adl-benchmarks)|Python+RDataFrame|the [bamboo](https://gitlab.cern.ch/cp3-cms/bamboo) analysis framework provides a high-level Python interface to RDataFrame (technically an embedded domain-specific language)|
+|[bamboo](https://github.com/pieterdavid/bamboo-adl-benchmarks)|Python + RDataFrame|The [bamboo](https://gitlab.cern.ch/cp3-cms/bamboo) analysis framework provides a high-level Python interface to RDataFrame (technically an embedded domain-specific language)|
 
 Adding new benchmarks, data, or implementations
 ===============================================
