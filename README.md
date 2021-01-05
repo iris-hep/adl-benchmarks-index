@@ -32,6 +32,7 @@ Language implementations
 |[groot](https://github.com/go-hep/examples/tree/master/groot/bench-opendata)|[Go](https://golang.org)|Part of the [Go-HEP](https://go-hep.org/) project, `groot` is a pure Go package that provides read/write access to ROOT files|
 |[coffea](https://github.com/mat-adamec/coffea-benchmarks)|Python + Numpy|[Coffea](https://github.com/CoffeaTeam/coffea) builds on numpy and awkward-array for columnar data analysis in Python|
 |[bamboo](https://github.com/pieterdavid/bamboo-adl-benchmarks)|Python + RDataFrame|The [bamboo](https://gitlab.cern.ch/cp3-cms/bamboo) analysis framework provides a high-level Python interface to RDataFrame (technically an embedded domain-specific language)|
+|[rumble](https://github.com/RumbleDB/hep-iris-benchmark-jsoniq)|[JSONiq](https://www.jsoniq.org/) (an [XQuery](https://en.wikipedia.org/wiki/XQuery) dialect for [JSON](https://en.wikipedia.org/wiki/JSON) data)|Most data in ROOT files can be exposed in the JSON data model and can thus be processed by JSONiq. This implementation is targeted to be run on [Rumble](https://rumbledb.org/), a JSONiq implementation on top of Spark, but could be run by any other JSONiq processor.|
 
 Adding new benchmarks, data, or implementations
 ===============================================
