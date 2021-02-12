@@ -19,8 +19,8 @@ For more details and the motivations behind these benchmarks, see [here](benchma
 Input data files
 ================
 
-* Converted from 2012 CMS open data (17 GB, 54 million events):
-  * root://eospublic.cern.ch//eos/root-eos/benchmark/Run2012B_SingleMu.root
+* [Converted to NanoAOD](https://github.com/cms-opendata-analyses/AOD2NanoAODOutreachTool) from [2012 CMS open data](http://opendata.cern.ch/record/6021):
+  * root://eospublic.cern.ch//eos/root-eos/benchmark/Run2012B_SingleMu.root (16 GiB, 53 million events)
 
 Language implementations
 ========================
