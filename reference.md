@@ -28,7 +28,7 @@ A species of elementary particle, including its [antiparticle](https://en.wikipe
 
 ### Four-momentum
 
-A [four-vector](https://en.wikipedia.org/wiki/Four-vector) with units of momentum. See [Four-momentum](https://en.wikipedia.org/wiki/Four-momentum). Four-momentum in events is often specified by <i>p</i><sub>T</sub>, <i>η</i>, <i>φ</i>, and mass, but addition of four-momenta is only straightforward in the Cartesian coordinates <i>E</i>, <i>p</i><sub>x</sub>, <i>p</i><sub>y</sub>, and <i>p</i><sub>z</sub>. A nice summary of the relationships between these can found [here](https://energyflow.network/docs/utils/).
+A [four-vector](https://en.wikipedia.org/wiki/Four-vector) with units of momentum. See [Four-momentum](https://en.wikipedia.org/wiki/Four-momentum). Four-momentum in events is often specified by <i>p</i><sub>T</sub>, <i>η</i>, <i>φ</i>, and mass, but addition of four-momenta is only straightforward in the Cartesian coordinates <i>E</i>, <i>p<sub>x</sub></i>, <i>p<sub>y</sub></i>, and <i>p<sub>z</sub></i>. A nice summary of the relationships between these can found [here](https://energyflow.network/docs/utils/).
 
 NanoAOD branches: <i>p</i><sub>T</sub> (in GeV): `<object type>_pt`, <i>η</i>: `<object type>_eta`, <i>φ</i> (in radians): `<object type>_phi`, Mass (in GeV): `<object type>_mass`
 
@@ -42,7 +42,7 @@ Equal to sqrt(<i>E</i><sup>2</sup> - <i>p</i><sup>2</sup>), where <i>E</i> and <
 
 ### Jet
 
-A cone of particles emitted by a collision. A jet is usually represeneted by a four-momentum, which is a sum over the constituent particles. See [Jet (particle physics)](https://en.wikipedia.org/wiki/Jet_\(particle_physics\)).
+A cone of particles emitted by a collision. A jet is represeneted by a four-momentum, which is a sum over the constituent particles. See [Jet (particle physics)](https://en.wikipedia.org/wiki/Jet_\(particle_physics\)).
 
 NanoAOD branches: `Jet_<property>`
 
@@ -79,7 +79,7 @@ The transverse mass of a system of missing transverse momentum and a lepton is e
 
 ### Transverse momentum
 
-The projection of the momentum onto the <i>xy</i>-plane. The magnitude is usually written as <i>p</i><sub>T</sub>.
+The projection of the momentum onto the <i>xy</i>-plane. The magnitude is written as <i>p</i><sub>T</sub>.
 
 NanoAOD branches: Magnitude (in GeV): `<object type>_pt`, <i>φ</i> (in radians): `<object type>_phi`
 
