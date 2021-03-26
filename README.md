@@ -15,7 +15,7 @@ Functionality benchmarks
 1. Plot the scalar sum in each event of the <i>p</i><sub>T</sub> of jets with <i>p</i><sub>T</sub> > 30 GeV that are not within 0.4 in Δ<i>R</i> of any light lepton with <i>p</i><sub>T</sub> > 10 GeV.
 1. For events with at least three light leptons and a same-flavor opposite-charge light lepton pair, find such a pair that has the invariant mass closest to 91.2 GeV and plot the transverse mass of the system consisting of the missing tranverse momentum and the highest-<i>p</i><sub>T</sub> light lepton not in this pair.
 
-For the motivations behind these benchmarks, see [motivations.md](). For a technical reference of the terms used in the benchmarks, see [reference.md]().
+For the motivations behind these benchmarks, see [motivation.md](motivation.md). For a technical reference of the terms used in the benchmarks, see [reference.md](reference.md).
 
 Input data files
 ================
