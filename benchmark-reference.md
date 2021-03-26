@@ -18,11 +18,11 @@ NanoAOD branches: `<object type>_eta`
 
 ## Event
 
-A single bunch crossing. Each entry in a NanoAOD `TTree` corresponds to one event. See [Event (particle physics)](https://en.wikipedia.org/wiki/Event_(particle_physics\)).
+A single bunch crossing. Each entry in a NanoAOD `TTree` corresponds to one event. See [Event (particle physics)](https://en.wikipedia.org/wiki/Event_\(particle_physics\)).
 
 ## Flavor
 
-A species of elementary particle, including its [antiparticle](https://en.wikipedia.org/wiki/Antiparticle). For example, electrons and positrons are of the same flavor, but muons are another flavor. See [Flavour](https://en.wikipedia.org/wiki/Flavour_(particle_physics\)).
+A species of elementary particle, including its [antiparticle](https://en.wikipedia.org/wiki/Antiparticle). For example, electrons and positrons are of the same flavor, but muons are another flavor. See [Flavour](https://en.wikipedia.org/wiki/Flavour_\(particle_physics\)).
 
 ## Four-momentum
 
@@ -40,7 +40,7 @@ Equal to sqrt(<i>E</i><sup>2</sup> - <i>p</i><sup>2</sup>) for a given four-mome
 
 ## Jet
 
-A cone of particles emitted by a collision. A jet is usually represeneted by a four-momentum, which is a sum over the constituent particles. See [Jet (particle physics)](https://en.wikipedia.org/wiki/Jet_(particle_physics\)).
+A cone of particles emitted by a collision. A jet is usually represeneted by a four-momentum, which is a sum over the constituent particles. See [Jet (particle physics)](https://en.wikipedia.org/wiki/Jet_\(particle_physics\)).
 
 NanoAOD branches: `Jet_<property>`
 
