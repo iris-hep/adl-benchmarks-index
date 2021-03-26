@@ -5,7 +5,7 @@ This repository is intended to maintain a list of common agreed-upon benchmark a
 Functionality benchmarks
 ========================
 
-1. Plot <i>E</i><sub>T</sub><sup>miss</sup>.
+1. Plot the <i>E</i><sub>T</sub><sup>miss</sup> of all events.
 1. Plot the <i>p</i><sub>T</sub> of all jets.
 1. Plot the <i>p</i><sub>T</sub> of jets with |<i>η</i>| < 1.
 1. Plot the <i>E</i><sub>T</sub><sup>miss</sup> of events that have at least two jets with <i>p</i><sub>T</sub> > 40 GeV.
