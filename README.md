@@ -5,14 +5,14 @@ This repository is intended to maintain a list of common agreed-upon benchmark a
 Functionality benchmarks
 ========================
 
-1. Plot the missing <i>E</i><sub>T</sub> of all events.
-1. Plot <i>p</i><sub>T</sub> of all jets in all events.
-1. Plot <i>p</i><sub>T</sub> of jets with |<i>η</i>| < 1.
-1. Plot the missing <i>E</i><sub>T</sub> of events that have at least two jets with <i>p</i><sub>T</sub> > 40 GeV.
-1. Plot the missing <i>E</i><sub>T</sub> of events that have an opposite-sign muon pair with an invariant mass between 60 and 120 GeV.
-1. Plot <i>p</i><sub>T</sub> of the trijet system with the mass closest to 172.5 GeV in each event and plot the maximum <i>b</i>-tagging discriminant value among the jets in the triplet.
-1. Plot the sum of <i>p</i><sub>T</sub> of jets with <i>p</i><sub>T</sub> > 30 GeV that are not within 0.4 in Δ<i>R</i> of any lepton with <i>p</i><sub>T</sub> > 10 GeV.
-1. For events with at least three leptons and a same-flavor opposite-sign lepton pair, find the same-flavor opposite-sign lepton pair with the mass closest to 91.2 GeV and plot the transverse mass of the missing energy and the leading other lepton.
+1. Plot <i>E</i><sub>T</sub><sup>miss</sup>.
+1. Plot the <i>p</i><sub>T</sub> of all jets.
+1. Plot the <i>p</i><sub>T</sub> of jets with |<i>η</i>| < 1.
+1. Plot the <i>E</i><sub>T</sub><sup>miss</sup> of events that have at least two jets with <i>p</i><sub>T</sub> > 40 GeV.
+1. Plot the <i>E</i><sub>T</sub><sup>miss</sup> of events that have an opposite-charge muon pair with an invariant mass between 60 and 120 GeV.
+1. Plot the <i>p</i><sub>T</sub> of the trijet four-momentum that has the invariant mass closest to 172.5 GeV in each event and plot the maximum <i>b</i>-tagging discriminant value among the jets in the triplet.
+1. Plot the scalar sum in each event of the <i>p</i><sub>T</sub> of jets with <i>p</i><sub>T</sub> > 30 GeV that are not within 0.4 in Δ<i>R</i> of any light lepton with <i>p</i><sub>T</sub> > 10 GeV.
+1. For events with at least three light leptons and a same-flavor opposite-charge light lepton pair, find the pair that has the invariant mass closest to 91.2 GeV and plot the transverse mass of the four-momentum sum of the missing tranverse momentum and the highest-<i>p</i><sub>T</sub> light lepton not in the pair.
 
 For more details and the motivations behind these benchmarks, see [here](benchmark-motivations.md).
 
