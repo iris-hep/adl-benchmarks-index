@@ -75,7 +75,7 @@ A [data analysis software framework](https://root.cern.ch/) for high energy phys
 
 ### Transverse mass
 
-The transverse mass of a system of missing transverse momentum and a lepton is equal to sqrt(2 * <i>p</i><sub>T, lepton</sub> * <i>E</i><sub>T</sub><sup>miss</sup> * (1 - cos(Δ<i>φ</i>))).
+The transverse mass of a system of missing transverse momentum and a lepton is equal to sqrt(2 * <i>p</i><sub>T<sub>lepton</sub></sub> * <i>E</i><sub>T</sub><sup>miss</sup> * (1 - cos(Δ<i>φ</i>))).
 
 ### Transverse momentum
 
