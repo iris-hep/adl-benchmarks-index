@@ -28,7 +28,7 @@ Language implementations
 
 |Repository|Language|Description|
 |----------|--------|-----------|
-|[opendata-benchmarks](https://github.com/root-project/opendata-benchmarks)|RDataFrame|RDataFrame is a componenent of [ROOT](https://root.cern/) that provides a high-level interface for analyzing [TTrees](https://root.cern.ch/doc/master/classTTree.html) and other data formats|
+|[opendata-benchmarks](https://github.com/root-project/opendata-benchmarks)|RDataFrame|RDataFrame is a componenent of [ROOT](https://root.cern/) that provides a high-level interface for analyzing [TTrees](https://root.cern.ch/doc/master/classTTree.html) and other data formats. Each task is solved with a simpler syntax useful in interpreted ROOT macros as well as a fully compiled C++ syntax for best performance. |
 |[nail](https://github.com/arizzi/nail/tree/master/benchmarks)|NAIL (Natual Analysis Implementation Language)||
 |[groot](https://github.com/go-hep/examples/tree/master/groot/bench-opendata)|[Go](https://golang.org)|Part of the [Go-HEP](https://go-hep.org/) project, `groot` is a pure Go package that provides read/write access to ROOT files|
 |[coffea](https://github.com/mat-adamec/coffea-benchmarks)|Python + Numpy|[Coffea](https://github.com/CoffeaTeam/coffea) builds on numpy and awkward-array for columnar data analysis in Python|
