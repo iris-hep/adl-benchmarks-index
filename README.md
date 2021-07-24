@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/188481137.svg)](https://zenodo.org/badge/latestdoi/188481137)
+
 Introduction
 ============
 
