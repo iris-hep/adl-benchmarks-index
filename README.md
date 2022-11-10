@@ -40,6 +40,7 @@ Language implementations
 |[PrestoDB](https://github.com/RumbleDB/iris-hep-benchmark-presto)|[PrestoDB's dialect](https://prestodb.io/docs/current/sql/select.html) of [SQL](https://en.wikipedia.org/wiki/SQL) |Like BigQuery, Presto has some support for arrays and structured types; however, it only has limited support for nested queries and a more verbose syntax than BigQuery.|
 |[Amazon Athena](https://github.com/RumbleDB/iris-hep-benchmark-athena)|[Athena's dialect](https://docs.aws.amazon.com/athena/latest/ug/ddl-sql-reference.html) of [SQL](https://en.wikipedia.org/wiki/SQL)|Athena is a fully-managed Query-as-a-Service system based on PrestoDB with attractive scalability and pricing but a few more limitations than Presto (most importantly, no support for user-defined functions).|
 |[SQL++ (AsterixDB)](https://github.com/RumbleDB/iris-hep-benchmark-sqlpp)|[SQL++](https://asterixdb.apache.org/docs/0.9.6/sqlpp/manual.html)|[AsterixDB](https://asterixdb.apache.org/) is a Big Data platform specialized for semi-structured data. Its query language is thus designed to deal with nested data intuitively.|
+|[ADLBenchmark.jl](https://github.com/Moelf/ADLBenchmark.jl)|[Julia](https://julialang.org/)|Pure Julia implementation utilizing packages developed by [JuliaHEP](https://github.com/JuliaHEP/) as a demonstration of ease of use, flexibility, and peak performance at the same time for end-user analysis.|
 
 Adding new benchmarks, data, or implementations
 ===============================================
