@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Proffitt
+    given-names: Mason
+  - family-names: Müller
+    given-names: Ingo
+  - family-names: Graur
+    given-names: Dan
+  - family-names: Adamec
+    given-names: Mat
+  - family-names: David
+    given-names: Pieter
+  - family-names: Guiraud
+    given-names: Enrico
+  - family-names: Binet
+    given-names: Sebastien
+title: "ADL Functionality Benchmarks"
+version: 0.1
+doi: 10.5281/zenodo.5131287
+date-released: 2021-07-24
