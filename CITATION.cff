@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: ADL Functionality Benchmarks Index
+abstract: A list of example analysis challenges and solved implementations of them in various languages
+authors:
+  - family-names: Proffitt
+    given-names: Mason
+  - family-names: Müller
+    given-names: Ingo
+  - family-names: Graur
+    given-names: Dan
+  - family-names: Adamec
+    given-names: Mat
+  - family-names: Ling
+    given-names: Jerry
+  - family-names: David
+    given-names: Pieter
+  - family-names: Guiraud
+    given-names: Enrico
+  - family-names: Binet
+    given-names: Sebastien
+doi: 10.5281/zenodo.5131286
+repository-code: "https://github.com/iris-hep/adl-benchmarks-index"
