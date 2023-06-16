@@ -42,6 +42,8 @@ Language implementations
 |[Amazon Athena](https://github.com/RumbleDB/iris-hep-benchmark-athena)|[Athena's dialect](https://docs.aws.amazon.com/athena/latest/ug/ddl-sql-reference.html) of [SQL](https://en.wikipedia.org/wiki/SQL)|Athena is a fully-managed Query-as-a-Service system based on PrestoDB with attractive scalability and pricing but a few more limitations than Presto (most importantly, no support for user-defined functions).|
 |[SQL++ (AsterixDB)](https://github.com/RumbleDB/iris-hep-benchmark-sqlpp)|[SQL++](https://asterixdb.apache.org/docs/0.9.6/sqlpp/manual.html)|[AsterixDB](https://asterixdb.apache.org/) is a Big Data platform specialized for semi-structured data. Its query language is thus designed to deal with nested data intuitively.|
 |[UnROOT.jl](https://github.com/Moelf/ADLBenchmark.jl)|[Julia](https://julialang.org/)|Pure Julia implementation utilizing packages developed by [JuliaHEP](https://github.com/JuliaHEP/) as a demonstration of ease of use, flexibility, and peak performance at the same time for end-user analysis.|
+|[Snowflake](https://github.com/DanGraur/iris-hep-benchmark-snowflake)|[Snowflake's](https://docs.snowflake.com/en/sql-reference-commands) dialect of [SQL](https://en.wikipedia.org/wiki/SQL)|Snowflake is a fully-managed Query-as-a-Service system that boasts high performance and scalability as a pure in-cloud database. Moreover, Snowflake adds support for the powerful [`VARIANT`](https://docs.snowflake.com/en/sql-reference/data-types-semistructured#variant) data type, specifically designed to efficiently store and process semi-structured data.|
+
 
 Adding new benchmarks, data, or implementations
 ===============================================
